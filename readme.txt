@@ -5,3 +5,4 @@ New life is coming...
 Test
 Pull
 Conflict
+Test conflict
